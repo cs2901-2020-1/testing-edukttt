@@ -1,4 +1,4 @@
-package DesignPatternFacade;
+package calculator;
 public class Calculator {
     public static int Calculate(String operation){
         System.out.print(operation+"\n");

@@ -1,0 +1,7 @@
+calculator/Calculator.class
+calculator/business/TranslatorImpl.class
+calculator/CalculatorTester.class
+calculator/Tree.class
+calculator/entities/Language.class
+calculator/business/Translator.class
+calculator/Node.class
